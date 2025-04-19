@@ -1,0 +1,4 @@
+yfinance
+pandas
+pandas_ta==0.3.14b0
+numpy
