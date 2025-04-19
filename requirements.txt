@@ -1,4 +1,6 @@
+streamlit
 yfinance
-pandas
+pandas==1.5.3
 pandas_ta==0.3.14b0
-numpy
+matplotlib
+numpy==1.23.5
